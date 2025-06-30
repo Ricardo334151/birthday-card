@@ -1,0 +1,30 @@
+{
+  "greeting": "嗨",
+  "name": "小黄",
+  "greetingText": "遇见你就是我最大的幸运",
+  "wishText": "愿笑容永驻，愿星光常伴，岁岁如今朝。",
+  "imagePath": "img/lydia2.png",
+  "text1": "今天是你的生日哦！ :D",
+  "textInChatBox": "超级超级超级真心地祝你生日快乐！！！ 要拥有满满的快乐和幸福……",
+  "sendButtonLabel": "发送",
+  "text2": "想给你一个小惊喜",
+  "text3": "我琢磨了好久",
+  "text4": "最后觉得，得做点",
+  "text4Adjective": "特别的事情",
+  "text5Entry": "因为，",
+  "text5Content": "你对我来说，真的很特别",
+  "smiley": ":)",
+  "bigTextPart1": "所",
+  "bigTextPart2": "以",
+  "wishHeading": "生日快乐呀！",
+  "outroText": "希望你喜欢这份我亲手做的小惊喜！",
+  "replayText": "喜欢的话，可以点重播再看一次哦！或者……",
+  "outroSmiley": ":)",
+  "music": "./music/bgMusic.mp3",
+  "fonts": [
+    {
+      "name": "Ma Shan Zheng",
+      "path": "https://fonts.googleapis.com/css?family=Ma+Shan+Zheng&display=swap"
+    }
+  ]
+}
