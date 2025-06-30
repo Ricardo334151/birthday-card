@@ -20,7 +20,7 @@
   "outroText": "希望你喜欢这份我亲手做的小惊喜！",
   "replayText": "喜欢的话，可以点重播再看一次哦！或者……",
   "outroSmiley": ":)",
-  "music": "./music/bgMusic.mp3",
+  "music": "./Hippop.mp3",
   "fonts": [
     {
       "name": "Ma Shan Zheng",
